@@ -1,1 +1,1 @@
-firebase.txt
+Have deleted the config file due to API keys
